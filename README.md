@@ -82,7 +82,8 @@ Contains the complete website structure, styling, and JavaScript functionality.
 
 ### 🏠 Homepage
 
-![Homepage](C:\Users\Asus\OneDrive\Pictures\Screenshots)
+![Homepage](<img width="1920" height="1140" alt="Screenshot 2026-10-01 191926" src="https://github.com/user-attachments/assets/f520888b-5233-457c-9252-2f8f288963eb" />
+)
 
 ### 📚 Courses Section
 
