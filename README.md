@@ -87,7 +87,8 @@ Contains the complete website structure, styling, and JavaScript functionality.
 
 ### 📚 Courses Section
 
-![Courses](screenshots/courses.png)
+![Courses](<img width="1920" height="1140" alt="Screenshot 2026-10-01 192223" src="https://github.com/user-attachments/assets/99c7bc24-6afa-4a6e-b350-cee0ecb1597c" />
+)
 
 ### 💼 Placement Section
 
