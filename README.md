@@ -82,7 +82,7 @@ Contains the complete website structure, styling, and JavaScript functionality.
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](C:\Users\Asus\OneDrive\Pictures\Screenshots)
 
 ### 📚 Courses Section
 
